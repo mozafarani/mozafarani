@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mohammefm@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's cube in under 2 minutes.**
+- ⚡ Fun fact **I can solve a Rubik's cube in under 30 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
