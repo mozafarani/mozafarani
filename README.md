@@ -58,9 +58,3 @@ Currently crafting a **gamified productivity tracker** (like Habitica), blending
 📍 **Actively looking for Full Stack / Software Developer roles in Calgary, Vancouver, Toronto, or remote across Canada.**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozafarani&show_icons=true&theme=dark" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mozafarani&layout=compact&theme=dark" alt="Top Languages" />
-</p>
