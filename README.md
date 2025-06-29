@@ -15,9 +15,9 @@
 
 I'm a Full Stack Developer with 3+ years of experience building fast, scalable, and real-world solutions used by 1.3M+ users. I specialize in **JavaScript**, **React**, **Node.js**, and **Python**, and I'm deeply focused on backend systems, API design, and real-time data flows.
 
-Currently crafting a **gamified productivity tracker** (like Habitica), blending behavioral psychology with modern tech (Apollo GraphQL, MongoDB, MUI). I enjoy turning chaos into clean, modular codebases.
+Currently crafting a **gamified productivity tracker** (like Habitica), blending economic market principles with modern tech using Apollo GraphQL, MongoDB, and MUI.
 
-🧠 In my downtime, you'll find me solving Rubik's cubes under 20s or playing chess, always chasing clean solutions and creative strategy.
+In my downtime, you'll find me solving Rubik's cubes under 20s or playing chess, always chasing clean solutions and creative strategy.
 
 ---
 
@@ -57,4 +57,3 @@ Currently crafting a **gamified productivity tracker** (like Habitica), blending
 
 📍 **Actively looking for Full Stack / Software Developer roles in Calgary, Vancouver, Toronto, or remote across Canada.**
 
----
