@@ -17,7 +17,7 @@ I'm a Full Stack Developer with 3+ years of experience building fast, scalable, 
 
 Currently crafting a **gamified productivity tracker** (like Habitica), blending behavioral psychology with modern tech (Apollo GraphQL, MongoDB, MUI). I enjoy turning chaos into clean, modular codebases.
 
-🧠 In my downtime, you'll find me solving Rubik's cubes under 30s or playing chess — always chasing clean solutions and creative strategy.
+🧠 In my downtime, you'll find me solving Rubik's cubes under 20s or playing chess, always chasing clean solutions and creative strategy.
 
 ---
 
@@ -34,12 +34,12 @@ Currently crafting a **gamified productivity tracker** (like Habitica), blending
 
 💼 **Featured Projects**
 
-🧩 [Tsk-Do (Gamified Task Tracker)](https://github.com/mozafarani)
+🧩 Tsk-Do (Gamified Task Tracker)
   
 > A productivity app with XP, streaks, and a reward shop — inspired by Habitica.  
 > Built with React + Apollo + MongoDB. MVP shipped in under 48 hours using GPT-4 for rapid prototyping.
 
-🧙‍♂️ [Scryfall Card Search Clone](https://github.com/mozafarani)
+🧙‍♂️ Scryfall Card Search Clone
 
 > Rebuilt core features of Scryfall (1M+ MTG users) with blazing-fast search and REST APIs.  
 > Caching, Jest/Supertest coverage, and snappy Tailwind UI.
@@ -55,7 +55,7 @@ Currently crafting a **gamified productivity tracker** (like Habitica), blending
 
 ---
 
-📍 **Actively looking for Full Stack / Software Developer roles in Toronto, Vancouver, Calgary, or remote across Canada.**
+📍 **Actively looking for Full Stack / Software Developer roles in Calgary, Vancouver, Toronto, or remote across Canada.**
 
 ---
 
