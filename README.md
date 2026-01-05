@@ -1,59 +1,116 @@
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhw_cF3CJDXk8xId9tfWhK-2N_pOL7e15CiNL5Og92anNXrwivzjgYOCLfHTjIuIz8OQuMJKKWQ_kJRIDe8tcaJpMpqu967t33hnMyAPTGm7IOtRwexcltR6GUxWgKoAnlTL_Gv-YJ2qdX7s-EVu317Y0eTZjw-Qvwxq6Gbq5eejGk29O1jfgZysdqHzg=w1600" width="100%"/>
 </p>
-
-<h1 align="center">Hi there 👋, I'm Mohammed Alzafarani</h1>
-<h3 align="center">Full Stack Developer • Puzzle Solver • Product Builder</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Alzafarani</h1>
+<h3 align="center">QA Automation Engineer • SDET • Quality Advocate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mozafarani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mozafarani&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-🚀 **About Me**
+## 🧪 About Me
 
-I'm a Full Stack Developer with 3+ years of experience building fast, scalable, and real-world solutions used by 1.3M+ users. I specialize in **JavaScript**, **React**, **Node.js**, and **Python**, and I'm deeply focused on backend systems, API design, and real-time data flows.
+I'm a **QA Automation Engineer** with a strong **software development background**, focused on building reliable, maintainable automated test systems for modern web applications.
 
-Currently crafting a **gamified productivity tracker** (like Habitica), blending economic market principles with modern tech using Apollo GraphQL, MongoDB, and MUI.
+I specialize in **UI, API, and integration testing**, helping teams ship with confidence by catching issues early and reducing regression risk. I’ve worked across SaaS platforms with complex backend systems, real-time data flows, and CI/CD pipelines, supporting releases with **99.9%+ uptime**.
 
-In my downtime, you'll find me solving Rubik's cubes under 20s or playing chess, always chasing clean solutions and creative strategy.
-
----
-
-🧰 **Tech Stack**
-
-- **Frontend:** React, Tailwind, Material UI, TypeScript  
-- **Backend:** Node.js, Express, GraphQL (Apollo), Meteor.js  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **Testing & DevOps:** Jest, Mocha, GitHub Actions, Docker, CI/CD  
-- **AI Tools:** GitHub Copilot, GPT-4, OpenAI API  
-- **Other:** Firebase, Heroku, Postman, Figma  
+My dev background lets me think like an engineer *and* test like a skeptic: I care deeply about edge cases, failure modes, and production realism.
 
 ---
 
-💼 **Featured Projects**
+## 🔍 What I Focus On
 
-🧩 Tsk-Do (Gamified Task Tracker)
-  
-> A productivity app with XP, streaks, and a reward shop — inspired by Habitica.  
-> Built with React + Apollo + MongoDB. MVP shipped in under 48 hours using GPT-4 for rapid prototyping.
-
-🧙‍♂️ Scryfall Card Search Clone
-
-> Rebuilt core features of Scryfall (1M+ MTG users) with blazing-fast search and REST APIs.  
-> Caching, Jest/Supertest coverage, and snappy Tailwind UI.
+- Designing **scalable test automation frameworks**
+- Validating **critical user journeys & business logic**
+- API testing & backend data validation
+- CI/CD test integration for fast feedback
+- Risk-based testing & release confidence
+- Improving testability in legacy codebases
 
 ---
 
-📫 **Let’s Connect**
+## 🧰 QA & Automation Tech Stack
 
-- 📧 Email: [mohammefm@gmail.com](mailto:mohammefm@gmail.com)  
-- 🌐 Website: [mozafarani.com](https://www.mozafarani.com)  
-- 💼 LinkedIn: [linkedin.com/in/mozafarani](https://linkedin.com/in/mozafarani)  
-- 💻 GitHub: [github.com/mozafarani](https://github.com/mozafarani)
+### 🧪 Testing & Automation
+- Cypress, Selenium, WebdriverIO  
+- Jest, Mocha, Chai, Sinon  
+- Manual, Regression, E2E, Integration, Functional Testing  
+
+### 🌐 API & Performance
+- Postman (Collections & Scripting)  
+- REST & GraphQL validation  
+- JMeter (basic performance & load testing)  
+
+### 💻 Languages
+- JavaScript (ES6+), TypeScript  
+- Python  
+
+### ⚙️ CI/CD & Infrastructure
+- GitHub Actions  
+- Docker  
+- Git, Bitbucket Pipelines  
+- Basic Jenkins exposure  
+
+### 🗂️ Test Management & Collaboration
+- JIRA, TestRail, Zephyr  
+- Agile / Scrum workflows  
+- Clear test documentation & reporting  
 
 ---
 
-📍 **Actively looking for Full Stack / Software Developer roles in Calgary, Vancouver, Toronto, or remote across Canada.**
+## 🧪 Featured QA Projects
 
+### 🔹 UI & API Automation Frameworks
+> Custom-built Cypress & Selenium frameworks covering authentication, navigation, and end-to-end workflows.  
+> Integrated into CI pipelines for automated regression on every PR.
+
+**Highlights**
+- Page Object Model
+- Reusable test utilities
+- CI-ready execution
+- Clear README & test reports
+
+---
+
+### 🔹 API Test Suites (Postman)
+> Automated validation for 20+ REST endpoints covering CRUD, error handling, and data integrity.
+
+**Focus Areas**
+- Schema & response validation  
+- Negative & boundary testing  
+- Backend data verification with SQL  
+
+---
+
+### 🔹 Legacy App Test Enablement
+> Introduced automated testing into a legacy Meteor.js codebase during a major version migration.
+
+**Impact**
+- Improved deployment reliability
+- Reduced regression risk
+- Helped devs write more testable code
+
+---
+
+## 🧠 QA Philosophy
+
+- **Quality is a team responsibility**
+- Test behavior, not implementation
+- Automate what matters, not everything
+- Bugs are signals, not failures
+- Production realism > happy paths
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: mohammefm@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/mozafarani  
+- 💻 GitHub: https://github.com/mozafarani  
+- 🌐 Portfolio: https://www.mozafarani.com  
+
+---
+
+📍 **Actively looking for QA Automation / SDET roles in Edmonton, Calgary, Vancouver, Toronto, or remote across Canada.**
