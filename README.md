@@ -110,7 +110,3 @@ My dev background lets me think like an engineer *and* test like a skeptic: I ca
 - 💼 LinkedIn: https://linkedin.com/in/mozafarani  
 - 💻 GitHub: https://github.com/mozafarani  
 - 🌐 Portfolio: https://www.mozafarani.com  
-
----
-
-📍 **Actively looking for QA Automation / SDET roles in Edmonton, Calgary, Vancouver, Toronto, or remote across Canada.**
